@@ -1,0 +1,680 @@
+[
+    {
+        "id": "RT3080",
+        "name": "Burguer King",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa 2",
+                "description": "Prato surpresa do dia com carnes derivadas",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa 3",
+                "description": "Prato surpresa do dia com legumes",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa 4",
+                "description": "Prato surpresa do dia vegetariano",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia vegano",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT30801",
+        "name": "Burguer Dog",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3082",
+        "name": "KSF Food",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3083",
+        "name": "Super Burguer",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3084",
+        "name": "Supermecado Guadalajara",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3085",
+        "name": "Mercadão municipal",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3086",
+        "name": "Disk entregas Gás e Água",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3087",
+        "name": "Farmácia Popular",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3088",
+        "name": "Disk Auto Carros Peças",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3089",
+        "name": "Restaurante universitário",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3090",
+        "name": "Espetinhos do Zeca",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3091",
+        "name": "Restaurante da Maria",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3092",
+        "name": "Delícias Mineiras",
+        "description": "Fast food - Burger",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    },
+    {
+        "id": "RT3093",
+        "name": "Burguer King",
+        "description": "Bolos caseiros da Maria",
+        "discount": 15,
+        "waitingTime": "40 A 60 MIN",
+        "products": [
+            {
+                "name": "Frango frito",
+                "description": "Fast food - Frango",
+                "price": 20.90,
+                "cashback": 15
+            },
+            {
+                "name": "Hamburguer",
+                "description": "Fast food - Burguer",
+                "price": 10.90,
+                "cashback": 15
+            },
+            {
+                "name": "X-Salada",
+                "description": "Fast food - X-Salada",
+                "price": 15.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato feito do dia",
+                "description": "Fast food - Burguer",
+                "price": 22.90,
+                "cashback": 15
+            },
+            {
+                "name": "Combo X - Tudo + Fritas + Refri",
+                "description": "Combo com tudo que tem direito",
+                "price": 30.90,
+                "cashback": 15
+            },
+            {
+                "name": "Prato surpresa",
+                "description": "Prato surpresa do dia",
+                "price": 25.90,
+                "cashback": 15
+            }
+        ]
+    }
+]
