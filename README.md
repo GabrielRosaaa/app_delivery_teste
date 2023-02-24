@@ -1,6 +1,6 @@
 # flutter_teste
 
-A new Flutter project.
+Este aplicativo é um teste que fiz de Delivery onde contém, manipulações de dados json, widgest customizados, versionamento de códigos,etc.
 
 ## Getting Started
 
